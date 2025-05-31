@@ -17,8 +17,10 @@ This is a simple responsive web project that simulates a light bulb turning ON a
 - JavaScript (DOM manipulation)
 
 ## Screenshots
-![Bulb Off State](./bulb_off.jpg)  
-![Bulb On State](./bulb_on.png)
+![image](https://github.com/user-attachments/assets/7a414814-9928-4b1c-b011-29442ad68221)
+
+![image](https://github.com/user-attachments/assets/57e09d78-3a84-49b1-bfd3-e3671978071f)
+
 
 ## Author
 Made by Chandra Sekhar
